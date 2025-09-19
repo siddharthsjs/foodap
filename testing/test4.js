@@ -1,1 +1,1 @@
-console.log("summa");
+console.log("summa");console.log("summa");console.log("summa");console.log("summa");console.log("summa");console.log("summa");console.log("summa");console.log("summa");
